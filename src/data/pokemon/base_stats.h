@@ -20,7 +20,7 @@
         .evYield_Speed = 2,                 \
         .evYield_SpAttack = 2,              \
         .evYield_SpDefense = 2,             \
-        .item1 = ITEM_MASTER_BALL,                 \
+        .item1 = ITEM_NONE,                 \
         .item2 = ITEM_NONE,                 \
         .genderRatio = MON_GENDERLESS,      \
         .eggCycles = 120,                   \
